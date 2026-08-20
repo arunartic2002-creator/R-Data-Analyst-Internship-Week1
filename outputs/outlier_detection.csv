@@ -1,0 +1,5 @@
+Variable,Q1,Q3,IQR,Lower Bound,Upper Bound,Outlier Count
+Age,22.0,35.0,13.0,2.5,54.5,66
+Fare,7.91,31.0,23.09,-26.72,65.63,116
+SibSp,0.0,1.0,1.0,-1.5,2.5,46
+Parch,0.0,0.0,0.0,0.0,0.0,213
